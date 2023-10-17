@@ -69,7 +69,7 @@ setup(
         "pytz >= 2020.1",
         "pyyaml >= 5.3.1",
         "paho-mqtt >= 1.5.0",
-        "requests >= 2.23.0",
+        "requests >= 2.31.0",
         "requests_toolbelt >= 0.9.1",
     ],
     classifiers=[
